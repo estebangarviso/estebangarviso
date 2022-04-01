@@ -5,8 +5,8 @@
 <a href="https://www.linkedin.com/in/estebangarviso/" rel="nofollow">![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=solid&labelColor=0A66C2&logo=linkedin)</a>
 - 👋 Hi! My name is Esteban Garviso and I'm professional developer.
 - 👀 I'm interested in constantly growing, improving my development and algotrading skills to be able to offer solutions at a better quality and price for people and companies.
-- 🌱 I'm currently learning Full Stack Development Ninja Master in Escalab Academy.
-- 💞️ I'm looking to collaborate on creating new PrestaShop modules and themes.
+- 🌱 I'm currently learning Full Stack Development career at <a href="https://escalab.academy/">Escalab Academy</a>.
+- 💞️ I'm looking to collaborate on creating new modules and themes.
 
 <!---
 estebangarviso/estebangarviso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
