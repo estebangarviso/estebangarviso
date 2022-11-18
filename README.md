@@ -6,7 +6,7 @@
 - 👋 Hi! My name is Esteban Garviso and I'm professional developer.
 - 👀 I'm interested in constantly growing, improving my development and algotrading skills to be able to offer solutions at a better quality and price for people and companies.
 - 🌱 I'm currently finishing Full Stack Development career at <a href="https://escalab.academy/">Escalab Academy</a>.
-- 🌲 Certified Fullstack by KnowledgeHut UpGrad, India
+- 🌲 Certified Fullstack Developer by KnowledgeHut UpGrad, India
 - 💞️ I'm looking to collaborate on creating new projects in JavaScript or every kind of language.
 
 <!---
